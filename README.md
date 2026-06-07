@@ -20,9 +20,6 @@ The Driver Drowsiness Detection System is an AI-powered safety application that 
 * TensorFlow / Keras
 * Flask
 * NumPy
-* HTML
-* CSS
-* JavaScript
 
 ## Project Structure
 
